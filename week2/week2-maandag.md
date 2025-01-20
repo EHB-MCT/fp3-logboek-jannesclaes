@@ -1,6 +1,6 @@
 # Logboek
 
-**Datum:** `[14/01/2025]`  
+**Datum:** `[20/01/2025]`  
 **Studentnaam:** `[Jannes Claes]`  
 **Groepsnaam:** `[Digit 5]`
 
@@ -18,14 +18,11 @@ _Instructie (schrijf in bullets waar je aan gewerkt hebt):_
 > - In `index.html` heb ik een overzicht van projecten toegevoegd en drie aanpassingen doorgevoerd in de CSS (voor `ul`, `li` en `.projectname`).
 > - Samen met [naam teamgenoot] de filterfunctionaliteit in `projects.js` opgezet om alleen lopende projecten te tonen.
 
-- Ik heb mijn persoonlijk moodboard afgemaakt aan de hand van de research die ik gedaan had.
-- Ik heb een mappenstructuur gemaakt in teams zodat we met het heleteam makkelijk bestanden met elkaar kunnen delen.
-- Dan heb ik de style guide van gisteren volledig afgewerkt.
-- Dan hebben we met het hele team begonnen aan een wireframe.
-- Hierna heb ik mijn persona's afgemaakt.
-- in de namiddag hadden we een call met organisaties in Berlijn en Stuttgard die ons wat wijzer hebben gemaakt over hoe het in zijn werk gaat.
-- Deze info gebruikt om verder research te doen en Api's te zoeken die we kunnen gebruiken.
-- De dag afegesloten met een korte pitch te geven aan de coaches.
+- scrum board aangevuld en alles op de juiste plaats gezet
+- api key genreator samn met sam gemaakt
+- samen met sam geprogrameerd aan een manier om die key dan te laten updaten dagelijks
+- manier geaocht om de key in onze front end te zetten(https://www.youtube.com/watch?v=JWia8kUPrRs)
+- mee helpen designen aan een landing page voor op de app bij eerste gebruik
 
 ---
 
@@ -41,8 +38,7 @@ _Instructie (1 item per dag volstaat):_
 > - Vandaag voor het eerst een gebruikerstest opgezet in Figma en feedback verwerkt in de wireframes.
 > - Of: Ik heb geleerd hoe ik mijn teamgenoten kan motiveren als ze vastlopen.
 
-- heel wat bijgeleerd over water kwaliteit
-- Ook interesant om te vinden hoeveel boten er passeren op het kanaal.
+  - info over connecties tussen node.js en phpmyadmin
 
 ---
 
@@ -58,8 +54,8 @@ _Instructie:_
 > - **"Blij"** :smiley:
 > - **"Gefrustreerd"** :zap:
 
-- Ben vrij tevreden over vandaag heb even een boost met ideeên en een goed teamgevoel.
-- **"gemotiveerd"**
+- iets meer bertrouwen nu e in teams zijn gesplitst maar vooral het gevoel dat er nog wat werk is.
+- **"druk"**
 
 ---
 
