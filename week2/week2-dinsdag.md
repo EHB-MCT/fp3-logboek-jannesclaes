@@ -1,6 +1,6 @@
 # Logboek
 
-**Datum:** `[15/01/2025]`  
+**Datum:** `[21/01/2025]`  
 **Studentnaam:** `[Jannes Claes]`  
 **Groepsnaam:** `[Digit 5]`
 
@@ -18,10 +18,11 @@ _Instructie (schrijf in bullets waar je aan gewerkt hebt):_
 > - In `index.html` heb ik een overzicht van projecten toegevoegd en drie aanpassingen doorgevoerd in de CSS (voor `ul`, `li` en `.projectname`).
 > - Samen met [naam teamgenoot] de filterfunctionaliteit in `projects.js` opgezet om alleen lopende projecten te tonen.
 
-  - met de hele groep gesleuteld aan het wireframe dat nu volledig af is
-  - contact genomen met verschillende waterwerk organisaties om data over de water kwaliteit te bekomen
-  - Een online data set ivm boten over heel de wereld proberen te fetchen en te gebruiken naar onze nooden
-  - samen met het team gewerkt aan het design om nu tot een heel goede eerste vorm te hebben
+- een random boot generator geprogrameerd
+- Samen met Sam gezorgd dat die naar de API wordt gestuurd en elk uur opnieuw wordt gerund
+- online heel veel zitten onderzoeknen naar welke AI modellen we zouden kunnen gebruiken om onze voorspellingen te maken.
+- In de namiddag heel veel artikels gelezen over hoe men de water kwaliteit kan berekenen
+
 
 ---
 
@@ -37,8 +38,8 @@ _Instructie (1 item per dag volstaat):_
 > - Vandaag voor het eerst een gebruikerstest opgezet in Figma en feedback verwerkt in de wireframes.
 > - Of: Ik heb geleerd hoe ik mijn teamgenoten kan motiveren als ze vastlopen.
 
-  - leren werken met websocket
-  - enkele figma tricks
+  - Heel wat formule's in verband met  waterkwaliteit
+  - Hoe de KMO wilt proberen een AI te maken die waterkwaliteit voorspeld
 
 ---
 
@@ -54,8 +55,8 @@ _Instructie:_
 > - **"Blij"** :smiley:
 > - **"Gefrustreerd"** :zap:
 
-- beetje veel gewicht op men schouders omdat het veel werk is
-- **"bang"**
+- Zoveel informatie en ik snap er niks van 
+- **"overprikkelt"**
 
 ---
 
