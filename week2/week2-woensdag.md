@@ -1,6 +1,6 @@
 # Logboek
 
-**Datum:** `[16/01/2025]`  
+**Datum:** `[22/01/2025]`  
 **Studentnaam:** `[Jannes Claes]`  
 **Groepsnaam:** `[Digit 5]`
 
@@ -18,13 +18,11 @@ _Instructie (schrijf in bullets waar je aan gewerkt hebt):_
 > - In `index.html` heb ik een overzicht van projecten toegevoegd en drie aanpassingen doorgevoerd in de CSS (voor `ul`, `li` en `.projectname`).
 > - Samen met [naam teamgenoot] de filterfunctionaliteit in `projects.js` opgezet om alleen lopende projecten te tonen.
 
-  - volledige product backlog gemaakt
-  - Scrum board onderhouden en op orde gebracht
-  - user stories gemaakt en toegevoegd aan het bord.
-  - Alle persona's doorgenomen en de beste er uit gekozen als belangrijkste
-  - moodboard doorgenomen en een gemaakt aan de hand van de verschillende.
-  - de github repo voor ons team gemaakt en klaar gezet.
-  - de Readme ingevuld voor de code dat ik gisteren had getest
+  - Ik ben gestart met het scrum board weer up to date te houden
+  - Dan ben ik weer begonnen met researcht te doen naar LLm en andere AI modellen die we zouden kunnen gebruiken tevergeefs
+  - Dan ben ik uit frustratie mee gaan coderen met css en html, hier heb ik de chart js toegevoegd en gestyled
+  - Dan heb ik nog wat zitten zoeken naar api waar we data uit kunnen halen
+  - tot slot heb ik proberen zelf te beginnen met python aan een model maar die pist opgegeven omdat het veel te moeilijk was en ik er niks van kenden
 
 ---
 
@@ -40,8 +38,8 @@ _Instructie (1 item per dag volstaat):_
 > - Vandaag voor het eerst een gebruikerstest opgezet in Figma en feedback verwerkt in de wireframes.
 > - Of: Ik heb geleerd hoe ik mijn teamgenoten kan motiveren als ze vastlopen.
 
-  - git repo maken
-  - wat een scope is en hoe je het allemaal moet maken
+  - Hoe je fatsoenlijk webpack gebruikt (door Sam)
+  - Dat er veel mensen geneigd zijn om snel een call te doen in teams
 ---
 
 ## 3) Wat is mijn gevoel over vandaag?
@@ -56,8 +54,8 @@ _Instructie:_
 > - **"Blij"** :smiley:
 > - **"Gefrustreerd"** :zap:
 
-- heb het gevoel dat ik niet heel veel heb gedaan vandaag, maar dat is niet zo 
-- **"verward"**
+- Terwijl de rest programeerd is het moeilijk om alleen info/data te verzamelen
+- **"gefrustreerd"**
 
 ---
 
