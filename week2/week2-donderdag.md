@@ -1,6 +1,6 @@
 # Logboek
 
-**Datum:** `[17/01/2025]`  
+**Datum:** `[23/01/2025]`  
 **Studentnaam:** `[Jannes Claes]`  
 **Groepsnaam:** `[Digit 5]`
 
@@ -18,11 +18,11 @@ _Instructie (schrijf in bullets waar je aan gewerkt hebt):_
 > - In `index.html` heb ik een overzicht van projecten toegevoegd en drie aanpassingen doorgevoerd in de CSS (voor `ul`, `li` en `.projectname`).
 > - Samen met [naam teamgenoot] de filterfunctionaliteit in `projects.js` opgezet om alleen lopende projecten te tonen.
 
-  - Pitch aan klant en coahes
-  - Kijken naar alle andere pitches
-  - research gedaan en geleerd over waterkwaliteit
-  - helpen met het hele team ons design helemaal opnieuw te maken
-  - feedback verwerken 
+  - Blauw alg research
+  - e coli research
+  - xamen met jonigezogd naar manieren om data te hebben en te verwerken
+  - data verzamelen
+  - data bij elkaar gesorteerd in sql om een goed overzicht te krijgen met veel struggles bij import
 
 ---
 
@@ -38,7 +38,7 @@ _Instructie (1 item per dag volstaat):_
 > - Vandaag voor het eerst een gebruikerstest opgezet in Figma en feedback verwerkt in de wireframes.
 > - Of: Ik heb geleerd hoe ik mijn teamgenoten kan motiveren als ze vastlopen.
 
-  - Het belang van een goede nachtrust
+  - berekenen van bacterie waardes
 ---
 
 ## 3) Wat is mijn gevoel over vandaag?
@@ -53,8 +53,8 @@ _Instructie:_
 > - **"Blij"** :smiley:
 > - **"Gefrustreerd"** :zap:
 
-- groot gebrek aan motivatie omdat wat wij dachten wat goed was helemaalweg moet en lang moeten wachten op hulp van de coaches
-- **"uitgeput"**
+- proberen stap per stap te werken nu maar struggle nog altijd naar AI vinden
+- **"verward"**
 
 ---
 
