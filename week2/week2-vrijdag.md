@@ -1,6 +1,6 @@
 # Logboek
 
-**Datum:** `[15/01/2025]`  
+**Datum:** `[24/01/2025]`  
 **Studentnaam:** `[Jannes Claes]`  
 **Groepsnaam:** `[Digit 5]`
 
@@ -18,10 +18,13 @@ _Instructie (schrijf in bullets waar je aan gewerkt hebt):_
 > - In `index.html` heb ik een overzicht van projecten toegevoegd en drie aanpassingen doorgevoerd in de CSS (voor `ul`, `li` en `.projectname`).
 > - Samen met [naam teamgenoot] de filterfunctionaliteit in `projects.js` opgezet om alleen lopende projecten te tonen.
 
-  - met de hele groep gesleuteld aan het wireframe dat nu volledig af is
-  - contact genomen met verschillende waterwerk organisaties om data over de water kwaliteit te bekomen
-  - Een online data set ivm boten over heel de wereld proberen te fetchen en te gebruiken naar onze nooden
-  - samen met het team gewerkt aan het design om nu tot een heel goede eerste vorm te hebben
+  - presentatie voorbereid met het team
+  - data bestanden in verband met e coli en blauw alg gemaakt en gesorteerd adhv phpmyadmin
+  -deze heb ik dan geexporteerd naar een csv bestand
+  - Ik heb dan een poging gedaan om tenserflow in python te gebruiken om iets te kunnen trainen maar niet succesvol
+  - presentatie gedaan
+  - overleg met klant in verband met wat er nog mogelijk is
+  - weer beginnen designen adhv de feedback
 
 ---
 
@@ -37,8 +40,8 @@ _Instructie (1 item per dag volstaat):_
 > - Vandaag voor het eerst een gebruikerstest opgezet in Figma en feedback verwerkt in de wireframes.
 > - Of: Ik heb geleerd hoe ik mijn teamgenoten kan motiveren als ze vastlopen.
 
-  - leren werken met websocket
-  - enkele figma tricks
+  - Dat hard werk niet altijd loont
+  - een beetje over machine learning en python
 
 ---
 
@@ -54,7 +57,7 @@ _Instructie:_
 > - **"Blij"** :smiley:
 > - **"Gefrustreerd"** :zap:
 
-- beetje veel gewicht op men schouders omdat het veel werk is
+- bang dat we niet aan zowel de verwavhting van de klant en die van de docenten kunnen voldoen
 - **"bang"**
 
 ---
