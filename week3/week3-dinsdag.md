@@ -1,6 +1,6 @@
 # Logboek
 
-**Datum:** `[21/01/2025]`  
+**Datum:** `[28/01/2025]`  
 **Studentnaam:** `[Jannes Claes]`  
 **Groepsnaam:** `[Digit 5]`
 
@@ -18,10 +18,13 @@ _Instructie (schrijf in bullets waar je aan gewerkt hebt):_
 > - In `index.html` heb ik een overzicht van projecten toegevoegd en drie aanpassingen doorgevoerd in de CSS (voor `ul`, `li` en `.projectname`).
 > - Samen met [naam teamgenoot] de filterfunctionaliteit in `projects.js` opgezet om alleen lopende projecten te tonen.
 
-- een random boot generator geprogrameerd
-- Samen met Sam gezorgd dat die naar de API wordt gestuurd en elk uur opnieuw wordt gerund
-- online heel veel zitten onderzoeknen naar welke AI modellen we zouden kunnen gebruiken om onze voorspellingen te maken.
-- In de namiddag heel veel artikels gelezen over hoe men de water kwaliteit kan berekenen
+- begonnen met te onderzoeken waarom de openn AI dall e key niet werkt
+- Dit opgelost en aan de slag gegaan met de API
+- Dan geprobeerd om in plaats van een heel beeld te genereren, een bestaande foto aanpassen
+- Nadat dit niet lukte terug gegaan naar een heel beeld te genereren en alle mogelijkheden duidelijk genoteerd om zo de perfecte dynamische prompt te maken
+- Dan gezorgd dat dit in de front end gefetchd wordt
+- Terug code aangepast zodat we het beeld direct naar de database plaatsen
+- Nu de prompt begonnen dynamisch te maken
 
 
 ---
@@ -38,8 +41,10 @@ _Instructie (1 item per dag volstaat):_
 > - Vandaag voor het eerst een gebruikerstest opgezet in Figma en feedback verwerkt in de wireframes.
 > - Of: Ik heb geleerd hoe ik mijn teamgenoten kan motiveren als ze vastlopen.
 
-  - Heel wat formule's in verband met  waterkwaliteit
-  - Hoe de KMO wilt proberen een AI te maken die waterkwaliteit voorspeld
+  - je heoft niet te fetchten om data uit je back end te halen
+  - meer geleerd over db connections
+  - enkele tips over wat er belangrijk is voor een goede prompt
+  - 
 
 ---
 
@@ -55,8 +60,8 @@ _Instructie:_
 > - **"Blij"** :smiley:
 > - **"Gefrustreerd"** :zap:
 
-- Zoveel informatie en ik snap er niks van 
-- **"overprikkelt"**
+- Eindelijk na al deze week met vrij weinig concrete resultaten te komen heb ik vandaag eindelijk zelf iets als utikomst
+- **"blij"**
 
 ---
 
