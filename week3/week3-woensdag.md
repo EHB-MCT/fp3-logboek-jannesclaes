@@ -1,6 +1,6 @@
 # Logboek
 
-**Datum:** `[22/01/2025]`  
+**Datum:** `[29/01/2025]`  
 **Studentnaam:** `[Jannes Claes]`  
 **Groepsnaam:** `[Digit 5]`
 
@@ -18,11 +18,11 @@ _Instructie (schrijf in bullets waar je aan gewerkt hebt):_
 > - In `index.html` heb ik een overzicht van projecten toegevoegd en drie aanpassingen doorgevoerd in de CSS (voor `ul`, `li` en `.projectname`).
 > - Samen met [naam teamgenoot] de filterfunctionaliteit in `projects.js` opgezet om alleen lopende projecten te tonen.
 
-  - Ik ben gestart met het scrum board weer up to date te houden
-  - Dan ben ik weer begonnen met researcht te doen naar LLm en andere AI modellen die we zouden kunnen gebruiken tevergeefs
-  - Dan ben ik uit frustratie mee gaan coderen met css en html, hier heb ik de chart js toegevoegd en gestyled
-  - Dan heb ik nog wat zitten zoeken naar api waar we data uit kunnen halen
-  - tot slot heb ik proberen zelf te beginnen met python aan een model maar die pist opgegeven omdat het veel te moeilijk was en ik er niks van kenden
+  - Ik heb verder gewerkt aan te zoeken en optimaliseren van de prompts
+  - Dan heb ik in genereate.js een fucnie gemaakt die ervoor zorgt dat de prompt dynamisch werkend is. Dus adhv tijdsstip, weer omstandigheden, boot...
+  - Dan hebben we een gezmelijk gesprek gehad over ons groepswerk
+  - Na de middag ben ik aan de front end beginnen werken, veel van onze website was nog in de kleuren van het vorige design 
+  - Tot slot heb ik samen met Fleur gewerkt aan verschillende poster designs.
 
 ---
 
@@ -38,8 +38,9 @@ _Instructie (1 item per dag volstaat):_
 > - Vandaag voor het eerst een gebruikerstest opgezet in Figma en feedback verwerkt in de wireframes.
 > - Of: Ik heb geleerd hoe ik mijn teamgenoten kan motiveren als ze vastlopen.
 
-  - Hoe je fatsoenlijk webpack gebruikt (door Sam)
-  - Dat er veel mensen geneigd zijn om snel een call te doen in teams
+  - belang van eerlijke communicatie
+  - hoe je includes functie gebruikt in js
+  - meer over svg links en hoe je ze moet gebruiken
 ---
 
 ## 3) Wat is mijn gevoel over vandaag?
@@ -54,8 +55,8 @@ _Instructie:_
 > - **"Blij"** :smiley:
 > - **"Gefrustreerd"** :zap:
 
-- Terwijl de rest programeerd is het moeilijk om alleen info/data te verzamelen
-- **"gefrustreerd"**
+- Morgen laatste dag en alles moet eigenlijk nog dynamisch worden en er moet een presentatie worden voorbereid.
+- **"gestresseerd"**
 
 ---
 
