@@ -1,6 +1,6 @@
 # Logboek
 
-**Datum:** `[23/01/2025]`  
+**Datum:** `[30/01/2025]`  
 **Studentnaam:** `[Jannes Claes]`  
 **Groepsnaam:** `[Digit 5]`
 
@@ -18,11 +18,12 @@ _Instructie (schrijf in bullets waar je aan gewerkt hebt):_
 > - In `index.html` heb ik een overzicht van projecten toegevoegd en drie aanpassingen doorgevoerd in de CSS (voor `ul`, `li` en `.projectname`).
 > - Samen met [naam teamgenoot] de filterfunctionaliteit in `projects.js` opgezet om alleen lopende projecten te tonen.
 
-  - Blauw alg research
-  - e coli research
-  - xamen met jonigezogd naar manieren om data te hebben en te verwerken
-  - data verzamelen
-  - data bij elkaar gesorteerd in sql om een goed overzicht te krijgen met veel struggles bij import
+  - Samen met sam gaan pair programmen om de gehele web app dynamisch te bouwen alle pagina's en elke parameter, ook de kleuren. Ook hebben we de pagina's aan elkaar gelinkt
+  - favicon ingesteld op alle pagina's
+  - feedback gegeven op poster design
+  - begonnen aan developer deployment
+  - gezorgd dat onze hele werkplek proper was opgeruimd
+  - presentatie overlopen
 
 ---
 
@@ -38,7 +39,8 @@ _Instructie (1 item per dag volstaat):_
 > - Vandaag voor het eerst een gebruikerstest opgezet in Figma en feedback verwerkt in de wireframes.
 > - Of: Ik heb geleerd hoe ik mijn teamgenoten kan motiveren als ze vastlopen.
 
-  - berekenen van bacterie waardes
+  - dat het tochaltijd een heel gedoe is om alles online werkende te krijgen
+  - dat pair programming wel echt voordelen heeft
 ---
 
 ## 3) Wat is mijn gevoel over vandaag?
@@ -53,8 +55,8 @@ _Instructie:_
 > - **"Blij"** :smiley:
 > - **"Gefrustreerd"** :zap:
 
-- proberen stap per stap te werken nu maar struggle nog altijd naar AI vinden
-- **"verward"**
+- heel vermoeiende dag gehad, heel veel werk op het einde van heel vermoeiende weken
+- **"moe"**
 
 ---
 
